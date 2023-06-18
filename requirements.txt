@@ -1,0 +1,7 @@
+langchain
+huggingface_hub
+unstructured
+faiss-cpu
+gradio
+sentence_transformers
+python-dotenv
